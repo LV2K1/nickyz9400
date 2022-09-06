@@ -1,6 +1,5 @@
 # SETUP
-$ git clone https://github.com/cochyhung/Sonic-Blood
-
+$ git clone https://github.com/LV2K1/nickyz9400
 $ cd nickyz9400
 
 $ python3 setup.py or python setup.py
